@@ -1,49 +1,48 @@
-# CryptoCalc 💰
+# CryptoCalc
 
-A simple and intuitive cryptocurrency profit calculator for traders and investors.
+A mobile-optimized cryptocurrency profit calculator with German interface.
 
-## 📱 Description
+## Overview
 
-CryptoCalc is a mobile-first web application that helps you calculate potential returns on your cryptocurrency investments. Enter your investment amount, buy price, and target sell price to instantly see your potential profit, ROI percentage, and multiplier.
+CryptoCalc enables traders to quickly calculate potential returns on cryptocurrency investments. Enter your investment amount, buy price, and sell price to instantly view profit, ROI, and return multiplier.
 
-**Note:** The application interface is in German (Deutsche Benutzeroberfläche).
+## Features
 
-## ✨ Features
+- Real-time profit calculations
+- ROI percentage display
+- Return multiplier (X gains)
+- Mobile-responsive design
+- German language interface
 
-- 💵 Calculate total revenue from crypto trades
-- 📊 View profit/loss in your currency
-- 📈 See ROI percentage
-- ✖️ Display multiplier (X return)
-- 📱 Mobile-optimized interface
-- ⚡ Instant calculations
-- 🇩🇪 German language interface
+## How It Works
 
-## 🚀 Usage
+1. Enter investment amount
+2. Input buy price per coin
+3. Input sell price per coin
+4. View calculated results instantly
 
-1. Enter your investment amount (Investitionsbetrag)
-2. Input the buy price per coin (Kaufpreis pro Coin)
-3. Enter the sell price per coin (Verkaufspreis)
-4. View instant calculations:
-   - Revenue / Umsatz (total sale value)
-   - Profit / Gewinn (net gain/loss)
-   - Multiplier / X (return multiple)
-   - ROI Percentage / Prozent
+## Calculations
 
-## 🛠️ Technologies
+The app displays four key metrics:
+- **Umsatz** (Revenue): Total sale value
+- **Gewinn** (Profit): Net profit or loss
+- **X**: Return multiplier
+- **Prozent** (ROI): Return on investment percentage
+
+## Tech Stack
 
 - HTML5
 - CSS3
-- JavaScript
-- Responsive Design
+- JavaScript (Vanilla)
 
-## 🌍 Language
+## License
 
-- Interface: German (Deutsch)
+MIT License - See [LICENSE](LICENSE) file
 
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) file for details
-
-## 👤 Author
+## Author
 
 Daniel Koch
+
+---
+
+**Language Note:** Application interface is in German.
